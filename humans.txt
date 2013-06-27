@@ -1,0 +1,28 @@
+/* TEAM */
+  Developer: Scott Tolinski
+  Site: www.scotttolinski.com
+  Twitter: @scotttolinski
+  Location: Ann Arbor
+
+/* THANKS */
+  Names (& URL):
+
+/* SITE */
+  Standards: HTML5, CSS3
+  Components: Modernizr, jQuery, Sass
+  Software: Sublime Text 2, CodeKit
+
+dP"8                      d8     d8           
+C8b Y  e88'888  e88 88e   d88    d88       8   
+ Y8b  d888  '8 d888 888b d88888 d88888   88888 
+b Y8D Y888   , Y888 888P  888    888       8   
+8edP   "88,e8'  "88 88"   888    888           
+                                               
+                                               
+  e88'Y88                              d8                             
+ d888  'Y  e88 88e  8888 8888 888,8,  d88   888 8e   ,e e,  Y8b Y888P 
+C8888     d888 888b 8888 8888 888 "  d88888 888 88b d88 88b  Y8b Y8P  
+ Y888  ,d Y888 888P Y888 888P 888     888   888 888 888   ,   Y8b Y   
+  "88,d88  "88 88"   "88 88"  888     888   888 888  "YeeP"    888    
+                                                               888    
+                                                               888    
